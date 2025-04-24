@@ -1,0 +1,6 @@
+add_rules("mode.debug", "mode.release")
+set_toolchains("dpcpp")
+set_languages("cxx17")
+target("intel_sycl")
+    set_kind("binary")
+    add_files("src/*.cpp")
