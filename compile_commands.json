@@ -1,6 +1,0 @@
-[
-{
-  "directory": "C:\\Users\\cakit\\Desktop\\intel_sycl",
-  "arguments": ["C:\\Program Files (x86)\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe", "-c", "-Qunused-arguments", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Ibuild\\.gens\\intel_sycl\\windows\\x64\\release\\platform\\windows\\idl", "-fexceptions", "-fcxx-exceptions", "-fsycl", "-DNDEBUG", "-o", "build\\.objs\\intel_sycl\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
-  "file": "src\\main.cpp"
-}]
